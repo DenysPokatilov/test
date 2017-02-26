@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17508f0e-c529-44b9-9328-d3d10ca36929" name="Default" comment="">
+    <list default="true" id="17508f0e-c529-44b9-9328-d3d10ca36929" name="Default" comment="commit all files Added">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/GIT.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP-academy/.DenysPokatilov.html.swp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP-academy/.idea/PHP-academy.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP-academy/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP-academy/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP-academy/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP-academy/econd commit" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,6 +107,7 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="E:/flesh/GIT" />
   </component>
   <component name="RunManager" selected="PHPUnit.GIT">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -166,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488139844700</updated>
-      <workItem from="1488139846389" duration="1818000" />
+      <workItem from="1488139846389" duration="2898000" />
     </task>
     <task id="LOCAL-00001" summary="commit all files Added">
       <created>1488141598060</created>
@@ -175,11 +187,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488141598060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit all files Added">
+      <created>1488142470402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1488142470402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1818000" />
+    <option name="totallyTimeSpent" value="2898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
